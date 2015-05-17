@@ -9,7 +9,7 @@ Use `UIBezierPath` And `CAShaperLayer` to Customize Dash Line , it's simple to u
 
 And run on simulator , it shows like this
 
-
+![Alt image](https://github.com/jabarier/DashLine/blob/master/screen.png)
 
 If you find problems or want new functions , post them to issues. I'll fix or add them soon later.
 
